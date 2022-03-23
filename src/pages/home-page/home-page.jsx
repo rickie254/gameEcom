@@ -2,6 +2,7 @@ import React from "react";
 import "./home-page.css";
 import { GameItem } from "../../components/game-item/game-item";
 
+
 const games = [
   {
     image: "/game-covers/forza_5.jpeg",
