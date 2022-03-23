@@ -14,8 +14,8 @@ export const GamePage = () => {
       <h1 className="game-page__title">{game.title}</h1>
       <div className="game-page__content">
         <div className="game-page__left">
-          <iframe
-            width="90%"
+          <iframe className="game-page__iframe"
+            width="100%"
             height="400px"
             src={game.video}
             title="YouTube Video Player"
