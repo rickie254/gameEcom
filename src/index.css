@@ -29,8 +29,19 @@ a {
   color: #585254;
 }
 
+@media only screen and (max-width: 430px) {
+  .App {
+    padding: 0 15px;
+  } 
+}
+
 @media only screen and (max-width: 400px) {
   .App {
-    padding: 0 20px;
+    padding: 0 15px;
+  } 
+}
+@media only screen and (max-width: 360px) {
+  .App {
+    padding: 0px;
   } 
 }

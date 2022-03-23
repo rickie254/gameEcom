@@ -36,5 +36,24 @@
     .home-page {
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 15px;
+        margin-bottom: 20px;
+    }   
+}
+@media only screen and (max-width: 400px) {
+    .home-page {
+       margin: 20px;
+      
+    }   
+}
+@media only screen and (max-width: 360px) {
+    .home-page {
+       margin: 20px;
+        
+    }   
+}
+@media only screen and (max-width: 360px) {
+    .home-page {
+       margin: 10px;
+        
     }   
 }
