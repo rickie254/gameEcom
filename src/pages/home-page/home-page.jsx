@@ -76,7 +76,7 @@ const games = [
   {
     image: "https://i.pinimg.com/236x/31/d7/07/31d707254d10d91193df42fc375066c9.jpg",
     title: "uncharted 4",
-    genres: ["Action", "Adventure","","","" ],
+    genres: ["Action", "Adventure","Third-person shooter","Platformer"],
     price: 49.99,
     video: "https://www.youtube.com/embed/hh5HV4iic1Y",
     id: 7,
