@@ -85,14 +85,14 @@ const games = [
   {
     image: "https://i.pinimg.com/236x/3b/5d/22/3b5d22ba69dffe36bf1c1cf908195d4d.jpg",
     title: "watch dogs",
-    genres: ["Action-adventure", "Open world"],
+    genres: ["Action-adventure", "Open world","Stealth"],
     price: 49.99,
     video: "https://www.youtube.com/embed/PFko4Kut39s",
     id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    description: "dive into a technologically advanced open world as a skilled hacker seeking justice. Explore a sprawling cityscape, utilize hacking abilities to manipulate systems, and engage in intense third-person combat. Uncover a web of corruption and navigate a narrative filled with intrigue and suspense. Experience the thrill of being a vigilante in a digital age where information is power.",
   },
   {
-    image: "https://i.pinimg.com/564x/ea/cd/36/eacd3672b6a3035b7a33502261585dd0.jpg",
+    image: "https://i.pinimg.com/564x/19/47/d4/1947d4e41698c221c6b4f4ca7957de83.jpg",
     title: "horizon zero dawn",
     genres: ["sports", "multiplier"],
     price: 49.99,
