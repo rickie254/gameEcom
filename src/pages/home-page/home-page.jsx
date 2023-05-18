@@ -57,7 +57,7 @@ const games = [
   {
     image: "/game-covers/assassins_creed_valhalla.png",
     title: "Assassin’s Creed Valhalla",
-    genres: ["Parkour", "War", "Открытый мир"],
+    genres: ["Parkour", "War", "Open world"],
     video: "https://www.youtube.com/embed/ssrNcwxALS4",
     price: 59.99,
     id: 6,
@@ -71,7 +71,25 @@ const games = [
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
     id: 7,
-    description: "Description of Game 6",
+    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+  },
+  {
+    image: "https://i.pinimg.com/236x/31/d7/07/31d707254d10d91193df42fc375066c9.jpg",
+    title: "uncharted 4",
+    genres: ["sports", "multiplier"],
+    price: 49.99,
+    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    id: 7,
+    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+  },
+  {
+    image: "https://i.pinimg.com/736x/7f/67/6e/7f676e7dcf5b4f3d352d5ccaf2cb2164.jpg",
+    title: "Fifa 22",
+    genres: ["sports", "multiplier"],
+    price: 49.99,
+    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    id: 7,
+    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
   },
 ];
 
