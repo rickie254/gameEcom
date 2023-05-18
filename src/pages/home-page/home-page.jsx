@@ -134,7 +134,7 @@ const games = [
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
     id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    description: "This is an action-adventure game set during the American Revolution. Players take on the role of Connor Kenway, a half-English, half-Mohawk assassin, as he fights against the Templars and explores a historically rich open world. Experience a compelling narrative filled with political intrigue, betrayal, and revenge. Engage in stealthy assassinations, engage in intense combat, and traverse diverse landscapes ranging from bustling cities to untamed frontier wilderness. With its immersive setting, engaging gameplay mechanics, and a blend of historical events and fiction",
   },
   {
     image: "https://i.pinimg.com/564x/cd/eb/0b/cdeb0b03e50dd0f0a6c0bd8dcde76407.jpg",
@@ -143,7 +143,7 @@ const games = [
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
     id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    description: "is an action role-playing game set in ancient Egypt. Players assume the role of Bayek, a skilled Medjay warrior, as they uncover the origins of the Assassin Brotherhood. Explore a vast and detailed open world, including iconic locations like Alexandria and the Great Pyramids, while engaging in a rich and immersive storyline. Experience intense combat with a revamped combat system and engage in stealthy assassinations using a wide array of weapons and tools. With its stunning visuals, deep and captivating narrative, and a meticulously recreated ancient Egypt",
   },
   {
     image: "https://i.pinimg.com/736x/0a/d7/04/0ad7041010e2efa0dac6eb6c6f7b057d.jpg",
