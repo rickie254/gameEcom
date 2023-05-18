@@ -79,7 +79,7 @@ const games = [
     genres: ["Action", "Adventure","Third-person shooter",],
     price: 49.99,
     video: "https://www.youtube.com/embed/hh5HV4iic1Y",
-    id: 7,
+    id: 8,
     description: "A Thief's End is an action-packed adventure game that takes players on a thrilling journey alongside Nathan Drake, a seasoned treasure hunter. Join him on his quest for a fabled pirate treasure, facing dangerous adversaries, solving intricate puzzles, and uncovering long-lost secrets. With stunning visuals, captivating storytelling, and exhilarating gameplay,The game delivers an unforgettable and cinematic gaming experience. Prepare to embark on an epic adventure that will test your skills, wit, and courage to the limit.",
   },
   {
@@ -88,7 +88,7 @@ const games = [
     genres: ["Action-adventure", "Open world","Stealth"],
     price: 49.99,
     video: "https://www.youtube.com/embed/PFko4Kut39s",
-    id: 7,
+    id: 9,
     description: "dive into a technologically advanced open world as a skilled hacker seeking justice. Explore a sprawling cityscape, utilize hacking abilities to manipulate systems, and engage in intense third-person combat. Uncover a web of corruption and navigate a narrative filled with intrigue and suspense. Experience the thrill of being a vigilante in a digital age where information is power.",
   },
   {
@@ -97,7 +97,7 @@ const games = [
     genres: ["First-person shooter", "Science fiction"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
+    id: 10,
     description: "This is an epic first-person shooter set in a science fiction universe. Players assume the role of the iconic Master Chief and also play as Spartan Locke, leading their respective teams on a high-stakes mission. Engage in intense combat against alien enemies, utilize advanced weaponry, and navigate expansive and visually stunning environments. The game features a compelling single-player campaign and offers robust multiplayer modes for cooperative and competitive play. With its thrilling action and immersive sci-fi world",
   },
   {
@@ -106,8 +106,8 @@ const games = [
     genres: ["sports", "multiplier"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
-    description: "is a survival horror game that immerses players in a nightmarish zombie-infested world. Set in the fictional Raccoon City, players assume the roles of Leon S. Kennedy and Claire Redfield, who find themselves trapped in the midst of a deadly viral outbreak. Navigate through dark and eerie environments, solve puzzles, and confront grotesque creatures in a desperate fight for survival. With atmospheric tension, immersive gameplay, and a gripping storyline,it delivers a terrifying experience that keeps players on the edge of their seats as they unravel the mysteries behind the outbreak and uncover the truth lurking in the shadows.",
+    id: 11,
+    description: "This is a survival horror game that immerses players in a nightmarish zombie-infested world. Set in the fictional Raccoon City, players assume the roles of Leon S. Kennedy and Claire Redfield, who find themselves trapped in the midst of a deadly viral outbreak. Navigate through dark and eerie environments, solve puzzles, and confront grotesque creatures in a desperate fight for survival. With atmospheric tension, immersive gameplay, and a gripping storyline,it delivers a terrifying experience that keeps players on the edge of their seats as they unravel the mysteries behind the outbreak and uncover the truth lurking in the shadows.",
   },
   {
     image: "https://i.pinimg.com/736x/5e/c8/f8/5ec8f8c5af5e0a285831bab9a391f294.jpg",
@@ -115,8 +115,8 @@ const games = [
     genres: ["sports", "Racing"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
-    description: "is an adrenaline-fueled racing game that combines high-speed action with spectacular crashes. Experience intense arcade-style racing as you compete in a variety of races and challenges across different locations. Push your driving skills to the limit, perform daring maneuvers, and take down rivals in epic collisions. The game features a robust crash mode where you can cause massive pile-ups and destruction for maximum points. With its fast-paced gameplay, exhilarating races, and breathtaking crashes.",
+    id: 12,
+    description: "This is an adrenaline-fueled racing game that combines high-speed action with spectacular crashes. Experience intense arcade-style racing as you compete in a variety of races and challenges across different locations. Push your driving skills to the limit, perform daring maneuvers, and take down rivals in epic collisions. The game features a robust crash mode where you can cause massive pile-ups and destruction for maximum points. With its fast-paced gameplay, exhilarating races, and breathtaking crashes.",
   },
   {
     image: "https://i.pinimg.com/564x/3b/e1/b9/3be1b96a85580dfeb0e58a222da8455f.jpg",
@@ -124,8 +124,8 @@ const games = [
     genres: ["sports", "Action"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
-    description: "is a dark fantasy action role-playing game based on the book series of the same name by Andrzej Sapkowski. Players assume the role of Geralt of Rivia, a skilled monster hunter known as a Witcher, in a vast and immersive open world. Embark on epic quests, engage in intense combat, and make impactful choices that shape the outcome of the story. Explore richly detailed environments, interact with intriguing characters, and uncover deep and complex narratives. With its compelling storytelling, dynamic combat system, and intricate world-building",
+    id: 13,
+    description: "This is a dark fantasy action role-playing game based on the book series of the same name by Andrzej Sapkowski. Players assume the role of Geralt of Rivia, a skilled monster hunter known as a Witcher, in a vast and immersive open world. Embark on epic quests, engage in intense combat, and make impactful choices that shape the outcome of the story. Explore richly detailed environments, interact with intriguing characters, and uncover deep and complex narratives. With its compelling storytelling, dynamic combat system, and intricate world-building",
   },
   {
     image: "https://i.pinimg.com/564x/34/58/3c/34583c6c53be8bd5da6b404b568bb66c.jpg",
@@ -133,7 +133,7 @@ const games = [
     genres: ["sports", "multiplier"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
+    id: 14,
     description: "This is an action-adventure game set during the American Revolution. Players take on the role of Connor Kenway, a half-English, half-Mohawk assassin, as he fights against the Templars and explores a historically rich open world. Experience a compelling narrative filled with political intrigue, betrayal, and revenge. Engage in stealthy assassinations, engage in intense combat, and traverse diverse landscapes ranging from bustling cities to untamed frontier wilderness. With its immersive setting, engaging gameplay mechanics, and a blend of historical events and fiction",
   },
   {
@@ -142,8 +142,8 @@ const games = [
     genres: ["sports", "multiplier"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
-    description: "is an action role-playing game set in ancient Egypt. Players assume the role of Bayek, a skilled Medjay warrior, as they uncover the origins of the Assassin Brotherhood. Explore a vast and detailed open world, including iconic locations like Alexandria and the Great Pyramids, while engaging in a rich and immersive storyline. Experience intense combat with a revamped combat system and engage in stealthy assassinations using a wide array of weapons and tools. With its stunning visuals, deep and captivating narrative, and a meticulously recreated ancient Egypt",
+    id: 15,
+    description: "This is an action role-playing game set in ancient Egypt. Players assume the role of Bayek, a skilled Medjay warrior, as they uncover the origins of the Assassin Brotherhood. Explore a vast and detailed open world, including iconic locations like Alexandria and the Great Pyramids, while engaging in a rich and immersive storyline. Experience intense combat with a revamped combat system and engage in stealthy assassinations using a wide array of weapons and tools. With its stunning visuals, deep and captivating narrative, and a meticulously recreated ancient Egypt",
   },
   {
     image: "https://i.pinimg.com/736x/0a/d7/04/0ad7041010e2efa0dac6eb6c6f7b057d.jpg",
@@ -151,8 +151,8 @@ const games = [
     genres: ["sports", "multiplier"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
-    id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    id: 16,
+    description: "This is an action-adventure game that follows the journey of Kratos, a Spartan warrior turned god, as he battles mythical creatures and gods from Greek mythology. Set in a beautifully realized world inspired by Norse mythology, players accompany Kratos and his son Atreus on an emotional and perilous quest. Experience intense combat with brutal and satisfying melee attacks, solve intricate puzzles, and navigate breathtaking environments. The game offers a compelling story filled with deep character development and explores themes of fatherhood, redemption, and the consequences of one's actions. With its immersive gameplay, stunning visuals, and gripping narrative",
   },
 ];
 
