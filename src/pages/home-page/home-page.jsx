@@ -107,7 +107,7 @@ const games = [
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
     id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    description: "is a survival horror game that immerses players in a nightmarish zombie-infested world. Set in the fictional Raccoon City, players assume the roles of Leon S. Kennedy and Claire Redfield, who find themselves trapped in the midst of a deadly viral outbreak. Navigate through dark and eerie environments, solve puzzles, and confront grotesque creatures in a desperate fight for survival. With atmospheric tension, immersive gameplay, and a gripping storyline,it delivers a terrifying experience that keeps players on the edge of their seats as they unravel the mysteries behind the outbreak and uncover the truth lurking in the shadows.",
   },
   {
     image: "https://i.pinimg.com/736x/5e/c8/f8/5ec8f8c5af5e0a285831bab9a391f294.jpg",
