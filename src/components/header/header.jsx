@@ -8,7 +8,7 @@ export const Header = () => {
     <div className="header">
       <div className="wrapper">
         <NavLink to="/" className="header__store-title">
-          Issa.Ranxxs Game Store
+          ChapterGamecon
         </NavLink>
       </div>
       <div className="wrapper header__cart-btn-wrapper">
