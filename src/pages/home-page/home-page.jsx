@@ -78,7 +78,7 @@ const games = [
     title: "uncharted 4",
     genres: ["sports", "multiplier"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/hh5HV4iic1Y",
     id: 7,
     description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
   },
