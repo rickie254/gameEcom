@@ -93,12 +93,12 @@ const games = [
   },
   {
     image: "https://i.pinimg.com/564x/19/47/d4/1947d4e41698c221c6b4f4ca7957de83.jpg",
-    title: "horizon zero dawn",
-    genres: ["sports", "multiplier"],
+    title: "Halo 5: Guardians",
+    genres: ["First-person shooter", "Science fiction"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
     id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    description: "This is an epic first-person shooter set in a science fiction universe. Players assume the role of the iconic Master Chief and also play as Spartan Locke, leading their respective teams on a high-stakes mission. Engage in intense combat against alien enemies, utilize advanced weaponry, and navigate expansive and visually stunning environments. The game features a compelling single-player campaign and offers robust multiplayer modes for cooperative and competitive play. With its thrilling action and immersive sci-fi world",
   },
   {
     image: "https://i.pinimg.com/736x/1a/12/d0/1a12d079dae8a8fd2ac0387d0d541894.jpg",
