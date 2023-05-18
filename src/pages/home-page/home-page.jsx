@@ -85,9 +85,9 @@ const games = [
   {
     image: "https://i.pinimg.com/236x/3b/5d/22/3b5d22ba69dffe36bf1c1cf908195d4d.jpg",
     title: "watch dogs",
-    genres: ["sports", "multiplier"],
+    genres: ["Action-adventure", "Open world"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/PFko4Kut39s",
     id: 7,
     description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
   },
