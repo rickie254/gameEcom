@@ -76,11 +76,11 @@ const games = [
   {
     image: "https://i.pinimg.com/236x/31/d7/07/31d707254d10d91193df42fc375066c9.jpg",
     title: "uncharted 4",
-    genres: ["Action", "Adventure","Third-person shooter","Platformer"],
+    genres: ["Action", "Adventure","Third-person shooter",],
     price: 49.99,
     video: "https://www.youtube.com/embed/hh5HV4iic1Y",
     id: 7,
-    description: "FIFA 22 is the latest installment in the popular football (soccer) video game series. With improved gameplay, realistic graphics, and various game modes, it offers an immersive experience for football enthusiasts. Control your favorite teams, compete in intense matches, and enjoy the thrill of the beautiful game.",
+    description: "A Thief's End is an action-packed adventure game that takes players on a thrilling journey alongside Nathan Drake, a seasoned treasure hunter. Join him on his quest for a fabled pirate treasure, facing dangerous adversaries, solving intricate puzzles, and uncovering long-lost secrets. With stunning visuals, captivating storytelling, and exhilarating gameplay,The game delivers an unforgettable and cinematic gaming experience. Prepare to embark on an epic adventure that will test your skills, wit, and courage to the limit.",
   },
   {
     image: "https://i.pinimg.com/236x/3b/5d/22/3b5d22ba69dffe36bf1c1cf908195d4d.jpg",
