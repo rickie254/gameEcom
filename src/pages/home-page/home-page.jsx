@@ -64,6 +64,15 @@ const games = [
     description:
       "Assassin’s Creed Valhalla — is a multiplatform action/RPG video game developed by Ubisoft Montreal and published by Ubisoft. It is the twelfth installment in the Assassin's Creed series.",
   },
+  {
+    image: "https://i.pinimg.com/736x/7f/67/6e/7f676e7dcf5b4f3d352d5ccaf2cb2164.jpg",
+    title: "Fifa 22",
+    genres: ["sports", "multiplier"],
+    price: 49.99,
+    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    id: 7,
+    description: "Description of Game 6",
+  },
 ];
 
 export const HomePage = () => {
