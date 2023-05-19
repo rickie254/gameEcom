@@ -129,7 +129,7 @@ const games = [
   },
   {
     image: "https://i.pinimg.com/564x/34/58/3c/34583c6c53be8bd5da6b404b568bb66c.jpg",
-    title: "assassins creed 3",
+    title: "Assassins creed 3",
     genres: ["sports", "multiplier"],
     price: 49.99,
     video: "https://www.youtube.com/embed/o1igaMv46SY",
