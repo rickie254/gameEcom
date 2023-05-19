@@ -96,7 +96,7 @@ const games = [
     title: "Halo 5: Guardians",
     genres: ["First-person shooter", "Science fiction"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/GhTMIyhxJJc",
     id: 10,
     description: "This is an epic first-person shooter set in a science fiction universe. Players assume the role of the iconic Master Chief and also play as Spartan Locke, leading their respective teams on a high-stakes mission. Engage in intense combat against alien enemies, utilize advanced weaponry, and navigate expansive and visually stunning environments. The game features a compelling single-player campaign and offers robust multiplayer modes for cooperative and competitive play. With its thrilling action and immersive sci-fi world",
   },
