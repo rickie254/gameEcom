@@ -123,7 +123,7 @@ const games = [
     title: "The Witcher",
     genres: ["sports", "Action"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/KmgR4JiYmPY",
     id: 13,
     description: "This is a dark fantasy action role-playing game based on the book series of the same name by Andrzej Sapkowski. Players assume the role of Geralt of Rivia, a skilled monster hunter known as a Witcher, in a vast and immersive open world. Embark on epic quests, engage in intense combat, and make impactful choices that shape the outcome of the story. Explore richly detailed environments, interact with intriguing characters, and uncover deep and complex narratives. With its compelling storytelling, dynamic combat system, and intricate world-building",
   },
