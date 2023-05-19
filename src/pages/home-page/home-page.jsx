@@ -150,7 +150,7 @@ const games = [
     title: "God of war",
     genres: ["sports", "multiplier"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/K0u_kAWLJOA",
     id: 16,
     description: "This is an action-adventure game that follows the journey of Kratos, a Spartan warrior turned god, as he battles mythical creatures and gods from Greek mythology. Set in a beautifully realized world inspired by Norse mythology, players accompany Kratos and his son Atreus on an emotional and perilous quest. Experience intense combat with brutal and satisfying melee attacks, solve intricate puzzles, and navigate breathtaking environments. The game offers a compelling story filled with deep character development and explores themes of fatherhood, redemption, and the consequences of one's actions. With its immersive gameplay, stunning visuals, and gripping narrative",
   },
