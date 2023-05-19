@@ -132,7 +132,7 @@ const games = [
     title: "Assassins creed 3",
     genres: ["sports", "multiplier"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/-pUhraVG7Ow",
     id: 14,
     description: "This is an action-adventure game set during the American Revolution. Players take on the role of Connor Kenway, a half-English, half-Mohawk assassin, as he fights against the Templars and explores a historically rich open world. Experience a compelling narrative filled with political intrigue, betrayal, and revenge. Engage in stealthy assassinations, engage in intense combat, and traverse diverse landscapes ranging from bustling cities to untamed frontier wilderness. With its immersive setting, engaging gameplay mechanics, and a blend of historical events and fiction",
   },
