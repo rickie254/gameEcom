@@ -114,7 +114,7 @@ const games = [
     title: "burnout 3",
     genres: ["sports", "Racing"],
     price: 49.99,
-    video: "https://www.youtube.com/embed/o1igaMv46SY",
+    video: "https://www.youtube.com/embed/y6xT4CtWKIU",
     id: 12,
     description: "This is an adrenaline-fueled racing game that combines high-speed action with spectacular crashes. Experience intense arcade-style racing as you compete in a variety of races and challenges across different locations. Push your driving skills to the limit, perform daring maneuvers, and take down rivals in epic collisions. The game features a robust crash mode where you can cause massive pile-ups and destruction for maximum points. With its fast-paced gameplay, exhilarating races, and breathtaking crashes.",
   },
